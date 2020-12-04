@@ -91,9 +91,9 @@ void coo2csc(
 }
 
 
-// common_neighbours function
-// Compare two rows (row1, row2) and return the number of common neighbours with O(k + l), if node 1 has k neighbours and node 2 l.
-int common_neighbours(int row1, int row2, int row_ptr[], int col_idx[]){                
+// common_neighbors function
+// Compare two rows (row1, row2) and return the number of common neighbors with O(k + l), if node 1 has k neighbors and node 2 l.
+int common_neighbors(int row1, int row2, int row_ptr[], int col_idx[]){                
 
     int cnt = 0;
     int ptr1 = 0;
@@ -117,14 +117,14 @@ int common_neighbours(int row1, int row2, int row_ptr[], int col_idx[]){
 
 
 // find_triangles function
-// Finds c3 using CSR A by counting the common neighbours for every couple nodes that are neighbours too.
+// Finds c3 using CSR A by counting the common neighbors for every couple nodes that are neighbors too.
 void find_triangles(int row_ptr[], int col_idx[], int n, int *c3){
 
     cilk_for(int row1 = 0; row1 < n; row1++){
         c3[row1] = 0;
         for(int idx1 = row_ptr[row1]; idx1 < row_ptr[row1 + 1]; idx1++){                // For every non zero value of row1...
             //int row2 = col_idx[idx1];                                                 // We take its column id and we suppose it is row2...
-            c3[row1]+= common_neighbours(row1, col_idx[idx1], row_ptr, col_idx);
+            c3[row1]+= common_neighbors(row1, col_idx[idx1], row_ptr, col_idx);
         }
         c3[row1] = c3[row1]/2;
     }

@@ -102,9 +102,9 @@ void coo2csc(
 }
 
 
-// common_neighbours function
-// Compare two rows (row1, row2) and return the number of common neighbours with O(k + l), if row1 has k neighbours and row2 l.
-int common_neighbours(int row1, int row2, int row_ptr[], int col_idx[]){                
+// common_neighbors function
+// Compare two rows (row1, row2) and return the number of common neighbors with O(k + l), if row1 has k neighbors and row2 l.
+int common_neighbors(int row1, int row2, int row_ptr[], int col_idx[]){                
 
     int cnt = 0;
     int ptr1 = 0;
@@ -140,7 +140,7 @@ void *find_triangles(void *args){
         pthread_mutex_unlock(&mutex); 
         t_args->c3[t_it] = 0;
         for(int idx = t_args->row_ptr[t_it]; idx < t_args->row_ptr[t_it + 1]; idx++){                                                              
-            t_args->c3[t_it] += common_neighbours(t_it, t_args->col_idx[idx], t_args->row_ptr, t_args->col_idx);
+            t_args->c3[t_it] += common_neighbors(t_it, t_args->col_idx[idx], t_args->row_ptr, t_args->col_idx);
         }
         t_args->c3[t_it] = t_args->c3[t_it]/2;
     }
