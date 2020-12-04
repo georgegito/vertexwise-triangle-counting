@@ -1,0 +1,481 @@
+load OpenCilk 9.0.1 (PATH LD_LIBRARY_PATH OPENCILK) 
+WORKERS: 1 / SESSION: 1
+
+Workers: 1
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0413117 seconds
+Triangles: 2420
+
+
+Workers: 1
+Graph: com-Youtube
+Parallel operation time (Cilk): 5.48343 seconds
+Triangles: 3056386
+
+
+Workers: 1
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.141689 seconds
+Triangles: 1676652
+
+
+Workers: 1
+Graph: mycielskian13
+Parallel operation time (Cilk): 1.714 seconds
+Triangles: 0
+
+
+Workers: 1
+Graph: NACA0015
+Parallel operation time (Cilk): 0.5063 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 1 / SESSION: 2
+
+Workers: 1
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0453533 seconds
+Triangles: 2420
+
+
+Workers: 1
+Graph: com-Youtube
+Parallel operation time (Cilk): 5.51334 seconds
+Triangles: 3056386
+
+
+Workers: 1
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.139684 seconds
+Triangles: 1676652
+
+
+Workers: 1
+Graph: mycielskian13
+Parallel operation time (Cilk): 1.71451 seconds
+Triangles: 0
+
+
+Workers: 1
+Graph: NACA0015
+Parallel operation time (Cilk): 0.494543 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 1 / SESSION: 3
+
+Workers: 1
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0453093 seconds
+Triangles: 2420
+
+
+Workers: 1
+Graph: com-Youtube
+Parallel operation time (Cilk): 5.47654 seconds
+Triangles: 3056386
+
+
+Workers: 1
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.139892 seconds
+Triangles: 1676652
+
+
+Workers: 1
+Graph: mycielskian13
+Parallel operation time (Cilk): 1.70004 seconds
+Triangles: 0
+
+
+Workers: 1
+Graph: NACA0015
+Parallel operation time (Cilk): 0.493457 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 2 / SESSION: 1
+
+Workers: 2
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0342579 seconds
+Triangles: 2420
+
+
+Workers: 2
+Graph: com-Youtube
+Parallel operation time (Cilk): 2.86663 seconds
+Triangles: 3056386
+
+
+Workers: 2
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0928545 seconds
+Triangles: 1676652
+
+
+Workers: 2
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.883163 seconds
+Triangles: 0
+
+
+Workers: 2
+Graph: NACA0015
+Parallel operation time (Cilk): 0.282851 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 2 / SESSION: 2
+
+Workers: 2
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0349998 seconds
+Triangles: 2420
+
+
+Workers: 2
+Graph: com-Youtube
+Parallel operation time (Cilk): 2.89275 seconds
+Triangles: 3056386
+
+
+Workers: 2
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0965185 seconds
+Triangles: 1676652
+
+
+Workers: 2
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.871275 seconds
+Triangles: 0
+
+
+Workers: 2
+Graph: NACA0015
+Parallel operation time (Cilk): 0.303809 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 2 / SESSION: 3
+
+Workers: 2
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0349538 seconds
+Triangles: 2420
+
+
+Workers: 2
+Graph: com-Youtube
+Parallel operation time (Cilk): 2.89677 seconds
+Triangles: 3056386
+
+
+Workers: 2
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0939996 seconds
+Triangles: 1676652
+
+
+Workers: 2
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.883697 seconds
+Triangles: 0
+
+
+Workers: 2
+Graph: NACA0015
+Parallel operation time (Cilk): 0.281232 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 8 / SESSION: 1
+
+Workers: 8
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0138354 seconds
+Triangles: 2420
+
+
+Workers: 8
+Graph: com-Youtube
+Parallel operation time (Cilk): 1.24462 seconds
+Triangles: 3056386
+
+
+Workers: 8
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0397363 seconds
+Triangles: 1676652
+
+
+Workers: 8
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.311137 seconds
+Triangles: 0
+
+
+Workers: 8
+Graph: NACA0015
+Parallel operation time (Cilk): 0.112317 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 8 / SESSION: 2
+
+Workers: 8
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0136279 seconds
+Triangles: 2420
+
+
+Workers: 8
+Graph: com-Youtube
+Parallel operation time (Cilk): 1.23516 seconds
+Triangles: 3056386
+
+
+Workers: 8
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0389768 seconds
+Triangles: 1676652
+
+
+Workers: 8
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.326865 seconds
+Triangles: 0
+
+
+Workers: 8
+Graph: NACA0015
+Parallel operation time (Cilk): 0.106741 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 8 / SESSION: 3
+
+Workers: 8
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0137331 seconds
+Triangles: 2420
+
+
+Workers: 8
+Graph: com-Youtube
+Parallel operation time (Cilk): 1.18759 seconds
+Triangles: 3056386
+
+
+Workers: 8
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0415355 seconds
+Triangles: 1676652
+
+
+Workers: 8
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.307635 seconds
+Triangles: 0
+
+
+Workers: 8
+Graph: NACA0015
+Parallel operation time (Cilk): 0.106508 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 16 / SESSION: 1
+
+Workers: 16
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0103386 seconds
+Triangles: 2420
+
+
+Workers: 16
+Graph: com-Youtube
+Parallel operation time (Cilk): 1.30119 seconds
+Triangles: 3056386
+
+
+Workers: 16
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0263674 seconds
+Triangles: 1676652
+
+
+Workers: 16
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.211895 seconds
+Triangles: 0
+
+
+Workers: 16
+Graph: NACA0015
+Parallel operation time (Cilk): 0.0649516 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 16 / SESSION: 2
+
+Workers: 16
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.00934431 seconds
+Triangles: 2420
+
+
+Workers: 16
+Graph: com-Youtube
+Parallel operation time (Cilk): 1.23298 seconds
+Triangles: 3056386
+
+
+Workers: 16
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0262737 seconds
+Triangles: 1676652
+
+
+Workers: 16
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.200332 seconds
+Triangles: 0
+
+
+Workers: 16
+Graph: NACA0015
+Parallel operation time (Cilk): 0.0700246 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 16 / SESSION: 3
+
+Workers: 16
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.00953296 seconds
+Triangles: 2420
+
+
+Workers: 16
+Graph: com-Youtube
+Parallel operation time (Cilk): 1.23028 seconds
+Triangles: 3056386
+
+
+Workers: 16
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0249594 seconds
+Triangles: 1676652
+
+
+Workers: 16
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.219785 seconds
+Triangles: 0
+
+
+Workers: 16
+Graph: NACA0015
+Parallel operation time (Cilk): 0.0720279 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 20 / SESSION: 1
+
+Workers: 20
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.00999251 seconds
+Triangles: 2420
+
+
+Workers: 20
+Graph: com-Youtube
+Parallel operation time (Cilk): 1.23247 seconds
+Triangles: 3056386
+
+
+Workers: 20
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0339705 seconds
+Triangles: 1676652
+
+
+Workers: 20
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.163415 seconds
+Triangles: 0
+
+
+Workers: 20
+Graph: NACA0015
+Parallel operation time (Cilk): 0.0571555 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 20 / SESSION: 2
+
+Workers: 20
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.00902229 seconds
+Triangles: 2420
+
+
+Workers: 20
+Graph: com-Youtube
+Parallel operation time (Cilk): 1.24696 seconds
+Triangles: 3056386
+
+
+Workers: 20
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0240292 seconds
+Triangles: 1676652
+
+
+Workers: 20
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.178654 seconds
+Triangles: 0
+
+
+Workers: 20
+Graph: NACA0015
+Parallel operation time (Cilk): 0.0563062 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 20 / SESSION: 3
+
+Workers: 20
+Graph: belgium_osm
+Parallel operation time (Cilk): 0.0127326 seconds
+Triangles: 2420
+
+
+Workers: 20
+Graph: com-Youtube
+Parallel operation time (Cilk): 1.24766 seconds
+Triangles: 3056386
+
+
+Workers: 20
+Graph: dblp-2010
+Parallel operation time (Cilk): 0.0222267 seconds
+Triangles: 1676652
+
+
+Workers: 20
+Graph: mycielskian13
+Parallel operation time (Cilk): 0.176544 seconds
+Triangles: 0
+
+
+Workers: 20
+Graph: NACA0015
+Parallel operation time (Cilk): 0.0578917 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,480 @@
+WORKERS: 1 / SESSION: 1
+
+Workers: 1
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.0929257 seconds
+Triangles: 2420
+
+
+Workers: 1
+Graph: com-Youtube
+Parallel operation time (PThreads): 5.8111 seconds
+Triangles: 3056386
+
+
+Workers: 1
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.203279 seconds
+Triangles: 1676652
+
+
+Workers: 1
+Graph: mycielskian13
+Parallel operation time (PThreads): 1.65004 seconds
+Triangles: 0
+
+
+Workers: 1
+Graph: NACA0015
+Parallel operation time (PThreads): 0.680048 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 1 / SESSION: 2
+
+Workers: 1
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.117133 seconds
+Triangles: 2420
+
+
+Workers: 1
+Graph: com-Youtube
+Parallel operation time (PThreads): 5.72216 seconds
+Triangles: 3056386
+
+
+Workers: 1
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.207332 seconds
+Triangles: 1676652
+
+
+Workers: 1
+Graph: mycielskian13
+Parallel operation time (PThreads): 1.61219 seconds
+Triangles: 0
+
+
+Workers: 1
+Graph: NACA0015
+Parallel operation time (PThreads): 0.666061 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 1 / SESSION: 3
+
+Workers: 1
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.123183 seconds
+Triangles: 2420
+
+
+Workers: 1
+Graph: com-Youtube
+Parallel operation time (PThreads): 5.70918 seconds
+Triangles: 3056386
+
+
+Workers: 1
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.201725 seconds
+Triangles: 1676652
+
+
+Workers: 1
+Graph: mycielskian13
+Parallel operation time (PThreads): 1.5657 seconds
+Triangles: 0
+
+
+Workers: 1
+Graph: NACA0015
+Parallel operation time (PThreads): 0.677735 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 2 / SESSION: 1
+
+Workers: 2
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.289184 seconds
+Triangles: 2420
+
+
+Workers: 2
+Graph: com-Youtube
+Parallel operation time (PThreads): 2.98171 seconds
+Triangles: 3056386
+
+
+Workers: 2
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.178395 seconds
+Triangles: 1676652
+
+
+Workers: 2
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.848322 seconds
+Triangles: 0
+
+
+Workers: 2
+Graph: NACA0015
+Parallel operation time (PThreads): 0.561903 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 2 / SESSION: 2
+
+Workers: 2
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.294886 seconds
+Triangles: 2420
+
+
+Workers: 2
+Graph: com-Youtube
+Parallel operation time (PThreads): 2.97882 seconds
+Triangles: 3056386
+
+
+Workers: 2
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.150515 seconds
+Triangles: 1676652
+
+
+Workers: 2
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.832948 seconds
+Triangles: 0
+
+
+Workers: 2
+Graph: NACA0015
+Parallel operation time (PThreads): 0.562556 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 2 / SESSION: 3
+
+Workers: 2
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.334418 seconds
+Triangles: 2420
+
+
+Workers: 2
+Graph: com-Youtube
+Parallel operation time (PThreads): 3.08885 seconds
+Triangles: 3056386
+
+
+Workers: 2
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.177156 seconds
+Triangles: 1676652
+
+
+Workers: 2
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.842625 seconds
+Triangles: 0
+
+
+Workers: 2
+Graph: NACA0015
+Parallel operation time (PThreads): 0.569949 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 8 / SESSION: 1
+
+Workers: 8
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.438343 seconds
+Triangles: 2420
+
+
+Workers: 8
+Graph: com-Youtube
+Parallel operation time (PThreads): 1.10937 seconds
+Triangles: 3056386
+
+
+Workers: 8
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.113826 seconds
+Triangles: 1676652
+
+
+Workers: 8
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.264901 seconds
+Triangles: 0
+
+
+Workers: 8
+Graph: NACA0015
+Parallel operation time (PThreads): 0.648552 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 8 / SESSION: 2
+
+Workers: 8
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.455371 seconds
+Triangles: 2420
+
+
+Workers: 8
+Graph: com-Youtube
+Parallel operation time (PThreads): 1.16835 seconds
+Triangles: 3056386
+
+
+Workers: 8
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.113919 seconds
+Triangles: 1676652
+
+
+Workers: 8
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.268943 seconds
+Triangles: 0
+
+
+Workers: 8
+Graph: NACA0015
+Parallel operation time (PThreads): 0.653311 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 8 / SESSION: 3
+
+Workers: 8
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.445283 seconds
+Triangles: 2420
+
+
+Workers: 8
+Graph: com-Youtube
+Parallel operation time (PThreads): 1.12788 seconds
+Triangles: 3056386
+
+
+Workers: 8
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.154878 seconds
+Triangles: 1676652
+
+
+Workers: 8
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.285573 seconds
+Triangles: 0
+
+
+Workers: 8
+Graph: NACA0015
+Parallel operation time (PThreads): 0.632447 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 16 / SESSION: 1
+
+Workers: 16
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.447633 seconds
+Triangles: 2420
+
+
+Workers: 16
+Graph: com-Youtube
+Parallel operation time (PThreads): 0.874591 seconds
+Triangles: 3056386
+
+
+Workers: 16
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.155485 seconds
+Triangles: 1676652
+
+
+Workers: 16
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.164517 seconds
+Triangles: 0
+
+
+Workers: 16
+Graph: NACA0015
+Parallel operation time (PThreads): 0.645243 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 16 / SESSION: 2
+
+Workers: 16
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.459131 seconds
+Triangles: 2420
+
+
+Workers: 16
+Graph: com-Youtube
+Parallel operation time (PThreads): 0.876269 seconds
+Triangles: 3056386
+
+
+Workers: 16
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.154427 seconds
+Triangles: 1676652
+
+
+Workers: 16
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.165301 seconds
+Triangles: 0
+
+
+Workers: 16
+Graph: NACA0015
+Parallel operation time (PThreads): 0.639914 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 16 / SESSION: 3
+
+Workers: 16
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.453956 seconds
+Triangles: 2420
+
+
+Workers: 16
+Graph: com-Youtube
+Parallel operation time (PThreads): 0.871239 seconds
+Triangles: 3056386
+
+
+Workers: 16
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.155443 seconds
+Triangles: 1676652
+
+
+Workers: 16
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.164981 seconds
+Triangles: 0
+
+
+Workers: 16
+Graph: NACA0015
+Parallel operation time (PThreads): 0.588453 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 20 / SESSION: 1
+
+Workers: 20
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.460673 seconds
+Triangles: 2420
+
+
+Workers: 20
+Graph: com-Youtube
+Parallel operation time (PThreads): 0.863318 seconds
+Triangles: 3056386
+
+
+Workers: 20
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.15954 seconds
+Triangles: 1676652
+
+
+Workers: 20
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.139119 seconds
+Triangles: 0
+
+
+Workers: 20
+Graph: NACA0015
+Parallel operation time (PThreads): 0.647727 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 20 / SESSION: 2
+
+Workers: 20
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.454575 seconds
+Triangles: 2420
+
+
+Workers: 20
+Graph: com-Youtube
+Parallel operation time (PThreads): 0.882267 seconds
+Triangles: 3056386
+
+
+Workers: 20
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.158798 seconds
+Triangles: 1676652
+
+
+Workers: 20
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.142401 seconds
+Triangles: 0
+
+
+Workers: 20
+Graph: NACA0015
+Parallel operation time (PThreads): 0.647273 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+WORKERS: 20 / SESSION: 3
+
+Workers: 20
+Graph: belgium_osm
+Parallel operation time (PThreads): 0.460789 seconds
+Triangles: 2420
+
+
+Workers: 20
+Graph: com-Youtube
+Parallel operation time (PThreads): 0.885605 seconds
+Triangles: 3056386
+
+
+Workers: 20
+Graph: dblp-2010
+Parallel operation time (PThreads): 0.160055 seconds
+Triangles: 1676652
+
+
+Workers: 20
+Graph: mycielskian13
+Parallel operation time (PThreads): 0.135171 seconds
+Triangles: 0
+
+
+Workers: 20
+Graph: NACA0015
+Parallel operation time (PThreads): 0.587204 seconds
+Triangles: 2075635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
