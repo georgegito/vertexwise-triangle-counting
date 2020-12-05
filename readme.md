@@ -1,3 +1,4 @@
+<p align="right">text</p>
 # **_Vertexwise Triangle Counting_**
 
 This project was implemented during the *"Parallel and Distributed Systems"* course of Electrical and *Computer Engineering School, Aristotle University of Thessaloniki*.
