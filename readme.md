@@ -1,10 +1,10 @@
 # **Vertexwise Triangle Counting**
 
-This project was implemented during the "Parallel and Distributed Systems" course of Electrical and Computer Engineering School, Aristotle University of Thessaloniki.
+This project was implemented during the *"Parallel and Distributed Systems"* course of Electrical and Computer Engineering School, Aristotle University of Thessaloniki.
 The topic of the project is triangle counting in large unweighted and undirected graphs, by calculating a vector *c3*, that express the number of triangles that every node takes part in. In graph theory, the triangle graph is the complete graph K3, consisting of three vertices and three edges. 
 Triangle counting has gained increased popularity in the fields of network and graph analysis. The application of triangle detection, location, and counting are multi-fold: detection of minimal cycles, graph-theoretic clustering techniques, recognition of median, claw-free, and line graphs, and test of automorphism.
-Source code consist of two different algorithms (v3 and v4) of calculating *c3* vector. For each version, there is a sequential implementation and some parallel ones, that use Cilk, OpenMP and PThreads. 
-The parallel implementations were tested in the AUTh High Performance Computing (HPC) and some data were exported. Afterwards, we 
+Source code consist of two different algorithms (*v3* and *v4*) of calculating *c3* vector. For each version, there is a sequential implementation and some parallel ones, that use *Cilk*, *OpenMP* and *PThreads*. 
+The parallel implementations were tested in the *AUTh High Performance Computing (HPC) infrastructure* and some data were exported. Afterwards, we 
 used these data to analyze the behavior of our code.
 
 >**project parts**:
