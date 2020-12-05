@@ -1,3 +1,4 @@
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 # **_Vertexwise Triangle Counting_**
 
 This project was implemented during the *"Parallel and Distributed Systems"* course of Electrical and *Computer Engineering School, Aristotle University of Thessaloniki*.
