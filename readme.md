@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
  
  # **_Vertexwise Triangle Counting_**
 
