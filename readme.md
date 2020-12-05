@@ -1,6 +1,4 @@
-<p align="center">
- 
- # **_Vertexwise Triangle Counting_**
+# **_Vertexwise Triangle Counting_**
 
 This project was implemented during the *"Parallel and Distributed Systems"* course of Electrical and *Computer Engineering School, Aristotle University of Thessaloniki*.
 The topic of the project is triangle counting in large unweighted and undirected graphs, by calculating a vector *c3*, that express the number of triangles that every node takes part in. In graph theory, the triangle graph is the complete graph K3, consisting of three vertices and three edges. 
@@ -16,4 +14,3 @@ used these data to analyze the behavior of our code.
 4) **scripts**: Contains the bash scripts that were used to run the project in HPC.
 5) **speedup**: Contains a Matlab script that was used to export speedup diagrams with the data from HPC.
 6) **src**: Contains the source code of the project.
-</p>
