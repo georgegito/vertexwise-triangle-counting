@@ -8,4 +8,4 @@ _**Compile commands examples:**_
 
 _**Run command example:**_ ./v3_seq '*GraphName*'(e.g. ./v3_seq com-Youtube)
 
-_**IMPORTANT NOTE:** Please do not change the directory of the graphs. 
+_**IMPORTANT NOTE:**_ Please do not change the directory of the graphs. 
