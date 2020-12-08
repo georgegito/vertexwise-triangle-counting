@@ -6,4 +6,6 @@ _**Compile commands examples:**_
 | OpenMP (parallel)      | gcc -O3 -o v3_omp v3_omp.cpp -fopenmp -lstdc++            |
 | PThreads (parallel)   | gcc -O3 -o v4_pthreads v4_pthreads.cpp -lpthread -lstdc++ |
 
-_**Run command example:**_ ./v3_seq '*GraphName*'
+_**Run command example:**_ ./v3_seq '*GraphName*'(e.g. ./v3_seq com-Youtube)
+
+_**IMPORTANT NOTE:** Please do not change the directory of the graphs. 
