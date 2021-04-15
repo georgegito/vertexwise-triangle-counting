@@ -6,6 +6,6 @@ This project was implemented during the *"Parallel and Distributed Systems"* cou
 >**project parts**:
 1) **graphs**: Contains 5 graphs as mtx files that were used in the project.
 2) **hpc_data**: Contains the operation times that were recorded during the experiment in HPC.
-3) **matlab**: Contains Matlab scripts that were used to analyze HPC data.
+3) **matlab**: Contains MATLAB scripts that were used to analyze HPC data.
 4) **scripts**: Contains the bash scripts that were used to run the project in HPC.
 5) **src**: Contains the source code of the project.
